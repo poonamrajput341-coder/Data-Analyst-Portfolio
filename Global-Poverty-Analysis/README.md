@@ -1,7 +1,7 @@
 # 🌍 Global Poverty & Inequality Analysis (Power BI)
 
 ## 📊 Dashboard Preview
-! [Dashboard](dashboard.png) 
+![Dashboard](dashboard.png)
 
 ## 📌 Overview
 This project analyzes global poverty trends and income inequality across countries from 1980 to 2024 using Power BI.
