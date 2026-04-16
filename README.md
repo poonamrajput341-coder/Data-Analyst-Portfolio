@@ -32,12 +32,13 @@ This repository showcases my Power BI projects focused on data cleaning, analysi
 
 ---
 
-### 🛒 E-commerce Sales Dashboard
-- Built KPIs (Total Revenue, Orders, Average Order Value)  
-- Analyzed sales by category and product  
-- Identified top products by revenue using bar chart  
-- Visualized payment methods using donut chart  
-- Created monthly sales trend analysis  
+### 📊 Excel Sales Performance Dashboard
+
+* Built an interactive sales dashboard using Microsoft Excel
+* Used Pivot Tables, Pivot Charts, slicers, and KPI cards
+* Includes monthly trends, category analysis, and city-wise sales insights
+* [View Project](./Excel-Sales-Dashboard)
+
 - Added filters (Category, Payment Type, Order Status)  
 
 🔗 [View Project](./Ecommerce-Sales-Dashboard)
