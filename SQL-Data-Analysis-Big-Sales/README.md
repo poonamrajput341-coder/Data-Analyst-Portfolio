@@ -55,7 +55,7 @@ Analyzed combined performance across category and location.
 ---
 
 ## 📄 Project Report
-[Click here to view full report](
+[Click here to view full report](https://github.com/poonamrajput341-coder/Data-Analyst-Portfolio/blob/main/SQL-Data-Analysis-Big-Sales/sql_analysis_report.pdf)
 
 ---
 
