@@ -55,7 +55,7 @@ Analyzed combined performance across category and location.
 ---
 
 ## 📄 Project Report
-[Click here to view full report](outputs/sql_sales_analysis_report.pdf)
+[Click here to view full report](
 
 ---
 
